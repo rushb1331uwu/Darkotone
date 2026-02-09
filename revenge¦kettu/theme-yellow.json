@@ -35,7 +35,7 @@
             "#F0E400"
           ],
         "MESSAGE_MENTIONED_BACKGROUND_DEFAULT" : [
-            "#565200"
+            "#2E2400"
           ],
         "TEXT_MUTED" : [
             "#F0E400"
@@ -111,6 +111,9 @@
           ],
         "TEXT_STRONG" : [
           "#EEECCD"
+          ],
+        "BORDER_SUBTLE" : [
+          "#F0E400"
           ]
     },
     "rawColors": {
@@ -127,7 +130,8 @@
         "BRAND_500": "#F0E400",
         "PLUM_9": "#F0E400",
         "PLUM_20": "#000000",
-        "RED_400": "#F0E400"
+        "RED_400": "#F0E400",
+        "plum_13": "#F0E400"
     },
     "spec": 2
 }

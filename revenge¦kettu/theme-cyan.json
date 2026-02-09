@@ -111,6 +111,9 @@
           ],
         "TEXT_STRONG" : [
           "#E5FEFF"
+          ],
+        "BORDER_SUBTLE" : [
+          "#2BF7FF"
           ]
     },
     "rawColors": {
@@ -127,7 +130,8 @@
         "BRAND_500": "#2BF7FF",
         "PLUM_9": "#2BF7FF",
         "PLUM_20": "#000000",
-        "RED_400": "#2BF7FF"
+        "RED_400": "#2BF7FF",
+        "plum_13": "#2BF7FF"
     },
     "spec": 2
 }

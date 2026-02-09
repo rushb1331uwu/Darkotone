@@ -35,7 +35,7 @@
             "#F96BFF"
           ],
         "MESSAGE_MENTIONED_BACKGROUND_DEFAULT" : [
-            "#AD43B2"
+            "#37003C"
           ],
         "TEXT_MUTED" : [
             "#F96BFF"
@@ -111,6 +111,9 @@
           ],
         "TEXT_STRONG" : [
           "#FEF2FF"
+          ],
+        "BORDER_SUBTLE" : [
+          "#F96BFF"
           ]
     },
     "rawColors": {
@@ -127,7 +130,8 @@
         "BRAND_500": "#F96BFF",
         "PLUM_9": "#F96BFF",
         "PLUM_20": "#000000",
-        "RED_400": "#F96BFF"
+        "RED_400": "#F96BFF",
+        "plum_13": "#F96BFF"
     },
     "spec": 2
 }
