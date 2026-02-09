@@ -1,5 +1,5 @@
 {
-    "name": "Darkotone Red",
+    "name": "Darkotone Pink",
     "description": "a simple dark theme with accent colors very present",
     "authors": [
         {
@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "BACKGROUND_ACCENT": [
-            "#740F0F"
+            "#AD43B2"
         ],
         "BACKGROUND_BASE_LOW": [
             "#000000"
@@ -32,58 +32,58 @@
             "#1A1A1A"
           ],
         "REDESIGN_BUTTON_SECONDARY_BORDER" : [
-            "#C51212"
+            "#F96BFF"
           ],
         "MESSAGE_MENTIONED_BACKGROUND_DEFAULT" : [
-            "#740F0F"
+            "#AD43B2"
           ],
         "TEXT_MUTED" : [
-            "#C51212"
+            "#F96BFF"
            ],
         "BORDER_MUTED" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "BORDER_STRONG" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "CARD_BACKGROUND_DEFAULT" : [
           "#000000"
           ],
         "CHANNEL_ICON" : [
-          "#740F0F"
+          "#AD43B2"
           ],
         "INTERACTIVE_ICON_DEFAULT" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "INTERACTIVE_TEXT_ACTIVE" :[
-          "#C51212"
+          "#F96BFF"
           ],
         "MOBILE_TEXT_HEADING_PRIMARY" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "BUTTON_OUTLINE_DANGER_BORDER" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "REDESIGN_CHANNEL_NAME_TEXT" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "REDESIGN_INPUT_CONTROL_SELECTED" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "TEXT_DEFAULT" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "INTERACTIVE_TEXT_DEFAULT" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "THREAD_CHANNEL_SPINE" : [
-          "#C51212"
+          "#F96BFF"
           ],
         "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT" : [
           "#101010"
@@ -98,36 +98,36 @@
             "#101010"
           ],
         "INTERACTIVE_BACKGROUND_ACTIVE" : [
-           "#740F0F"
+           "#AD43B2"
           ],
         "BACKGROUND_MOD_STRONG" : [
-          "#740F0F"
+          "#AD43B2"
           ],
         "INTERACTIVE_MUTED" : [
-          "#740F0F"
+          "#AD43B2"
           ],
         "BACKGROUND_BRAND" : [
-          "#740F0F"
+          "#AD43B2"
           ],
         "TEXT_STRONG" : [
-          "#FFECEC"
+          "#FEF2FF"
           ]
     },
     "rawColors": {
-        "PLUM_1": "#C51212",
-        "PLUM_10": "#740F0F",
+        "PLUM_1": "#F96BFF",
+        "PLUM_10": "#AD43B2",
         "PLUM_17": "#000000",
-        "PLUM_18": "#C51212",
+        "PLUM_18": "#F96BFF",
         "PLUM_22": "#000000",
-        "PLUM_15": "#740F0F",
-        "PRIMARY_400": "#C51212",
-        "BLUE_345": "#C51212",
-        "BRAND_260": "#C51212",
-        "BRAND_360": "#C51212",
-        "BRAND_500": "#C51212",
-        "PLUM_9": "#C51212",
+        "PLUM_15": "#AD43B2",
+        "PRIMARY_400": "#F96BFF",
+        "BLUE_345": "#F96BFF",
+        "BRAND_260": "#F96BFF",
+        "BRAND_360": "#F96BFF",
+        "BRAND_500": "#F96BFF",
+        "PLUM_9": "#F96BFF",
         "PLUM_20": "#000000",
-        "RED_400": "#C51212"
+        "RED_400": "#F96BFF"
     },
     "spec": 2
 }
