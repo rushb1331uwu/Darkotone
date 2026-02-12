@@ -120,18 +120,19 @@
         "PLUM_1": "#2BF7FF",
         "PLUM_10": "#21999E",
         "PLUM_17": "#000000",
-        "PLUM_18": "#2BF7FF",
+        "PLUM_18": "#000000",
         "PLUM_22": "#000000",
         "PLUM_15": "#21999E",
         "PRIMARY_400": "#2BF7FF",
         "BLUE_345": "#2BF7FF",
-        "BRAND_260": "#2BF7FF",
+        "BRAND_260": "#21999E",
         "BRAND_360": "#2BF7FF",
-        "BRAND_500": "#2BF7FF",
+        "BRAND_500": "#21999E",
         "PLUM_9": "#2BF7FF",
         "PLUM_20": "#000000",
         "RED_400": "#2BF7FF",
-        "plum_13": "#2BF7FF"
+        "plum_13": "#2BF7FF",
+        "BRAND_560": "#2BF7FF"
     },
     "spec": 2
 }
