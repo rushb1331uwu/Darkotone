@@ -74,7 +74,7 @@
           "#F0E400"
           ],
         "REDESIGN_INPUT_CONTROL_SELECTED" : [
-          "#F0E400"
+          "#565200"
           ],
         "TEXT_DEFAULT" : [
           "#F0E400"
@@ -114,6 +114,9 @@
           ],
         "BORDER_SUBTLE" : [
           "#F0E400"
+          ],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND" : [
+          "#514F4F"
           ]
     },
     "rawColors": {
@@ -130,9 +133,10 @@
         "BRAND_500": "#565200",
         "PLUM_9": "#F0E400",
         "PLUM_20": "#000000",
-        "RED_400": "#F0E400",
+        "RED_400": "#565200",
         "plum_13": "#F0E400",
-        "BRAND_560": "F0E400"
+        "BRAND_560": "#F0E400",
+        "PRIMARY_700": "#565200"
     },
     "spec": 2
 }

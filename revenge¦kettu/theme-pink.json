@@ -130,9 +130,10 @@
         "BRAND_500": "#AD43B2",
         "PLUM_9": "#F96BFF",
         "PLUM_20": "#000000",
-        "RED_400": "#F96BFF",
+        "RED_400": "#AD43B2",
         "plum_13": "#F96BFF",
-        "BRAND_560": "#F96BFF"
+        "BRAND_560": "#F96BFF",
+        "PRIMARY_700": "#AD43B2"
     },
     "spec": 2
 }
