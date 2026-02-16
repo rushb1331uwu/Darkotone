@@ -135,5 +135,9 @@
         "BRAND_560": "#2BF7FF",
         "PRIMARY_700": "#21999E"
     },
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#2BF7FF"
+    },
     "spec": 2
 }
