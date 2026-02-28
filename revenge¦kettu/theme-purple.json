@@ -1,0 +1,146 @@
+{
+    "name": "Darkotone Purple",
+    "description": "a simple dark theme with accent colors very present",
+    "authors": [
+        {
+            "name": "rushb1331uwu"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "#503A73"
+        ],
+        "BACKGROUND_BASE_LOW": [
+            "#000000"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+          "#000000"
+          ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#101010"
+          ],
+        "EMBED_BACKGROUND" : [
+          "#101010"
+          ],
+        "BACKGROUND_SURFACE_HIGH" : [
+            "#101010"
+          ],
+        "PANEL_BG" : [
+            "#1A1A1A"
+          ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND" : [
+            "#1A1A1A"
+          ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER" : [
+            "#795CA8"
+          ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT" : [
+            "#231835"
+          ],
+        "TEXT_MUTED" : [
+            "#795CA8"
+           ],
+        "BORDER_MUTED" : [
+          "#795CA8"
+          ],
+        "BORDER_STRONG" : [
+          "#795CA8"
+          ],
+        "CARD_BACKGROUND_DEFAULT" : [
+          "#000000"
+          ],
+        "CHANNEL_ICON" : [
+          "#503A73"
+          ],
+        "INTERACTIVE_ICON_DEFAULT" : [
+          "#795CA8"
+          ],
+        "INTERACTIVE_TEXT_ACTIVE" :[
+          "#795CA8"
+          ],
+        "MOBILE_TEXT_HEADING_PRIMARY" : [
+          "#795CA8"
+          ],
+        "BUTTON_OUTLINE_DANGER_BORDER" : [
+          "#795CA8"
+          ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND" : [
+          "#795CA8"
+          ],
+        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE" : [
+          "#795CA8"
+          ],
+        "REDESIGN_CHANNEL_NAME_TEXT" : [
+          "#795CA8"
+          ],
+        "REDESIGN_INPUT_CONTROL_SELECTED" : [
+          "#503A73"
+          ],
+        "TEXT_DEFAULT" : [
+          "#D4BAFF"
+          ],
+        "INTERACTIVE_TEXT_DEFAULT" : [
+          "#795CA8"
+          ],
+        "THREAD_CHANNEL_SPINE" : [
+          "#795CA8"
+          ],
+        "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT" : [
+          "#101010"
+          ],
+        "BG_SURFACE_OVERLAY_TMP" : [
+          "#101010"
+          ],
+        "CARD_SECONDARY_BG" : [
+            "#101010"
+          ],
+        "INPUT_BACKGROUND_DEFAULT" : [
+            "#101010"
+          ],
+        "INTERACTIVE_BACKGROUND_ACTIVE" : [
+           "#503A73"
+          ],
+        "BACKGROUND_MOD_STRONG" : [
+          "#503A73"
+          ],
+        "INTERACTIVE_MUTED" : [
+          "#503A73"
+          ],
+        "BACKGROUND_BRAND" : [
+          "#503A73"
+          ],
+        "TEXT_STRONG" : [
+          "#F4EDFF"
+          ],
+        "BORDER_SUBTLE" : [
+          "#795CA8"
+          ],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND" : [
+          "#514F4F"
+          ]
+    },
+    "rawColors": {
+        "PLUM_1": "#795CA8",
+        "PLUM_10": "#503A73",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_15": "#503A73",
+        "PRIMARY_400": "#795CA8",
+        "BLUE_345": "#795CA8",
+        "BRAND_260": "#503A73",
+        "BRAND_360": "#795CA8",
+        "BRAND_500": "#503A73",
+        "PLUM_9": "#795CA8",
+        "PLUM_20": "#000000",
+        "RED_400": "#503A73",
+        "plum_13": "#795CA8",
+        "BRAND_560": "#795CA8",
+        "PRIMARY_700": "#503A73"
+    },
+        "plus": {
+        "version": 0,
+        "mentionLineColor": "#795CA8"
+    },
+    "spec": 2
+}
